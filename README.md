@@ -34,18 +34,6 @@
 
 🤝 Open to Internship, Freelance, and Full-Time Opportunities
 
----
-
-## 🎯 Current Focus
-
-- Building Full Stack Applications using MERN
-- Learning iOS Development
-- Improving System Design & Software Architecture Skills
-- Exploring Cloud Technologies and AI
-- Working towards launching impactful products
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
